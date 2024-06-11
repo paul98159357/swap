@@ -13,7 +13,7 @@ void swap(char **str1,char **str2)
 int main(void)
 {
 	char *str1="hallo";
-	char *str2="shit";
+	char *str2="taiwan";
 	
 	printf("%s %s\n",str1,str2);
 	
